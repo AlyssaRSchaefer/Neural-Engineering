@@ -4,9 +4,10 @@
 1. Elon Musk is recruiting talent for his neuro company Neurolink! See the following article and video: https://www.cnn.com/2022/11/30/tech/elon-musk-neuralink-show-and-tell-scn/index.html
 
 2. What is a neuron? What are the components of a neuron? Watch the following two videos:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HZh0A-lWSmY?si=HUAgsdgRHpPQKNeu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+[![The Neuron](https://img.youtube.com/vi/HZh0A-lWSmY/0.jpg)](https://www.youtube.com/watch?v=HZh0A-lWSmY)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x8ROEj2SFes?si=KpEPDs7e22dsu9sh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Phospholipid Bilayer](https://img.youtube.com/vi/x8ROEj2SFes/0.jpg)](https://www.youtube.com/watch?v=x8ROEj2SFes)
 
 3. View this video: A nice introduction to the [Cellular Mechanisms of Brain Fucntion](https://training.incf.org/lesson/introduction-cellular-mechanisms-brain-function) by Prof. Carl Persen, France (12 minutes)
 

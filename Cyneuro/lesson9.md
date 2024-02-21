@@ -3,7 +3,7 @@
 ## MONDAY
 
 Watch the following lecture: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lGzIOnx5Q0c?si=arLQ8lJFCmE3z_2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Neural Engineering S4 LEC](https://img.youtube.com/vi/lGzIOnx5Q0c/0.jpg)](https://www.youtube.com/watch?v=lGzIOnx5Q0c)
 <br><br>
 [Lecture Slides](/resources/week9/4590%20S4%20-%20LEC%20How%20do%20neurons%20communicate%20via%20synapses-1-1.pdf)
 <br><br>
