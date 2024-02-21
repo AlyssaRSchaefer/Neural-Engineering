@@ -9,7 +9,11 @@ one = ONE(password='international') #add password argument if connecting to the 
 brain_wide_sessions = one.search(project='brainwide')
 
 #lets use a random one as an example
-eid = brain_wide_sessions[27];
-dsets = one.list_datasets(eid, collection='raw_ephys_data') #list all datasets associated with this experiment
-for dset in dsets:
-    print(dset)
+eid = brain_wide_sessions[23];
+#dsets = one.list_datasets(eid, collection='raw_ephys_data') #list all datasets associated with this experiment
+#for dset in dsets:
+#    print(dset)
+
+locations = one.load_dataset(eid, 'electrodeSites.brainLocationIds_ccf_2017.npy', collection='alf/probe00')
+for location in locations:
+    print(location)
